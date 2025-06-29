@@ -28,7 +28,7 @@ Non-functional Requirements (NFRs), in contrast to functional requirements, defi
 
 # Use Case Diagrams
 Use Case Diagrams are a UML (Unified Modeling Language) diagram type used in software engineering to visually represent the functionality of a system from an external user's perspective.
-![alx-booking-uc png](https://github.com/user-attachments/assets/b4d759c7-31de-4b82-acdf-a6f6bb53a7fb)
+# ![alx-booking-uc png](https://github.com/user-attachments/assets/b4d759c7-31de-4b82-acdf-a6f6bb53a7fb)
 
 # Acceptance Criteria
 Acceptance Criteria (AC) are predefined conditions or requirements that a software feature, user story, or increment of work must satisfy to be considered complete and acceptable by stakeholders (users, clients, product owner)
