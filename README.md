@@ -1,3 +1,4 @@
+![GitHub Logo](alx-booking-uc.png)
 # Requirement Analysis in Software Development
 
 The objective of this project is to enhance a professional developer’s ability to Master the 
